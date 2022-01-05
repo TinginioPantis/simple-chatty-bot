@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChattyBotTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-05T19:47:36" hostname="agne-desktop" time="0.125">
+  <properties/>
+  <testcase name="start" classname="ChattyBotTest" time="0.125"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Hello! My name is Borgo.
+I was created in 2021.
+Please, remind me your name.
+> Marry
+What a great name you have, Marry!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5 and 7.
+> 1
+> 0
+> 5
+Your age is 40; that's a good time to start programming!
+Now I will prove to you that I can count to any number you want. Write a positive number.
+> 10
+0!
+1!
+2!
+3!
+4!
+5!
+6!
+7!
+8!
+9!
+10!
+Completed!
+Let's test your programming knowledge. Write the number of the correct answer.
+Why do we use methods?
+1. To repeat a statement multiple times.
+2. To decompose a program into several small subroutines.
+3. To determine the execution time of a program.
+4. To interrupt the execution of a program.
+> 1
+Please, try again.
+> 2
+That's correct.
+Congratulations, have a nice day!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
